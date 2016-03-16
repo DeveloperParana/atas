@@ -3,4 +3,4 @@
 - [03/03/2016 Reunião ordinária](atas/2016-03-03.md)
 - [08/03/2016 Reunião extraordinária](atas/2016-03-08.md)
 - [09/03/2016 Reunião ordinária](atas/2016-03-09.md)
-- [09/03/2016 Reunião ordinária](atas/2016-03-15.md)
+- [15/03/2016 Reunião ordinária](atas/2016-03-15.md)

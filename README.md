@@ -5,3 +5,4 @@
 - [09/03/2016 Reunião ordinária](atas/2016-03-09.md)
 - [15/03/2016 Reunião ordinária](atas/2016-03-15.md)
 - [29/06/2016 Reunião ordinária](atas/2016-06-29.md)
+- [01/08/2016 Reunião específica evento](atas/2016-08-01.md)

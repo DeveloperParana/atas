@@ -8,3 +8,6 @@
 - [01/08/2016 Reunião específica evento](atas/2016-08-01.md)
 - [08/08/2016 Reunião específica evento](atas/2016-08-08.md)
 - [22/08/2016 Reunião específica evento](atas/2016-08-22.md)
+- [27/01/2017 Reunião ordinária](atas/2017-01-27.md)
+- [09/02/2017 Reunião ordinária](atas/2017-02-09.md)
+- [15/03/2017 Reunião específica evento](atas/2017-03-15.md)

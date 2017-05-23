@@ -11,3 +11,4 @@
 - [[27/01/2017] - Reunião ordinária](atas/2017-01-27.md)
 - [[09/02/2017] - Reunião ordinária](atas/2017-02-09.md)
 - [[15/03/2017] - Reunião específica evento](atas/2017-03-15.md)
+- [[17/05/2017] - Reunião específica evento](atas/2017-05-17.md)
